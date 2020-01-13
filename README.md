@@ -7,3 +7,4 @@
 
 Developed in Arduino Uno, tested and optimized for ATTiny 85 with micronucleus bootloader.
 
+Follow-me in twitter @godlikebob
