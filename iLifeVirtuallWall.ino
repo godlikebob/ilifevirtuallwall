@@ -6,11 +6,10 @@
  * 
  * Notes: 
  *  - Import IRremote Library by shirriff
- *  - STL for 3d print available at Thingiverse.
  *  
  */
 #include <IRremote.h>
-#define DELAY 700
+#define DELAY 150
 
 IRsend irsend;
 
